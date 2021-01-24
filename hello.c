@@ -2,4 +2,6 @@
 void main()
 {
 print("Hello World,,,!!!")
+
+  print("This is basic C program
 }
